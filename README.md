@@ -4,7 +4,7 @@ Music Xperience is a comprehensive music management system designed to efficient
 
 ## Overview
 
-Music Xperience is a music streaming web application built using Streamlit and connected to a MySQL database. It enables users to sign up, log in, create playlists, search for songs, view albums, and manage their music subscriptions. Administrators have additional functionalities to manage users and the music database.
+Music Xperience is a music streaming web application made using MySQL database. It enables users to sign up, log in, create playlists, search for songs, view albums, and manage their music subscriptions. Administrators have additional functionalities to manage users and the music database.
 
 ## ER Diagram
 <img width="1325" alt="Screenshot 2024-07-19 at 12 38 38 AM" src="https://github.com/user-attachments/assets/cb118d12-ee7a-40e2-af09-f53833a4aebd">
